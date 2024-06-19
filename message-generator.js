@@ -1,6 +1,7 @@
 // Inspirational Message Generator
 
-// Array containing 3 lists of 5 phrases each
+// Array containing 4 lists of 5 phrases each
+// Originally it should have only 3 lists, but it was expanded to 4
 // To form the message > 'Embrace ' + message[0][X] + ', ' + message[1][X] + ' and ' + message[2][X]
 const message = [
     ["Accept", "Welcome", "Adopt", "Embody", "Encourage"], 
